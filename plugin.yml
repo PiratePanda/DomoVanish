@@ -1,0 +1,13 @@
+name: DomoVanish
+main: com.beastmc.astrocraft.DomoVanishMain
+version: 1.1.2
+
+commands:
+ vanish:
+  description: Let's you disappear
+
+ showvanished:
+  description: Let's you show vanished players.
+
+ checkv:
+  description: Shows you if you are vanished or not.
